@@ -1,0 +1,11 @@
+name: 3co
+main: me.ic3d.eco.ECO
+version: 1.2
+author: IC3D
+database: true
+description: >
+             3co saving  module.
+commands:
+  eco:
+    Description: Perform Economic Actions
+    Usage: /eco <arg> <player> <amount>
